@@ -1,0 +1,20 @@
+{
+	"name": "twitterclone/twitterclone",
+	"description": "Course's Twitter Clone project.",
+	"type": "project",
+	"require": {
+		"php": ">= 7.0"
+	},
+	"authors": [
+		{
+			"name": "Evandro Henrique Weyand",
+			"email": "ehweyand@universo.univates.br"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"App\\": "App/",
+			"MF\\": "vendor/MF/"
+		}
+	}
+}
