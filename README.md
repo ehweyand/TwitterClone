@@ -2,7 +2,7 @@
 
 Projeto simples que busca exemplificar os conceitos de MVC aprendidos durante o curso de Desenvolvimento WEB com PHP.
 
-##Script do banco de dados MySQL
+## Script do banco de dados MySQL
 
 --
 -- Banco de dados: `twitter_clone`
